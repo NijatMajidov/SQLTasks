@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SQLTask\\AdoNet\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC415F3-E4E4-4D9C-8F99-ECB64A22215B}|Business\\Business.csproj|c:\\users\\user\\desktop\\sqltask\\adonet\\employee\\business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC415F3-E4E4-4D9C-8F99-ECB64A22215B}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63A348C-26DB-41F2-A8A0-EB104EBDF41E}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\sqltask\\adonet\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63A348C-26DB-41F2-A8A0-EB104EBDF41E}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SQLTask\\AdoNet\\Employee\\Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SQLTask\\AdoNet\\Employee\\Business\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\EmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T21:02:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SQLTask\\AdoNet\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SQLTask\\AdoNet\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T20:22:25.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
